@@ -9,6 +9,8 @@ Small goals includes:
 - Implementing any form of imputation (filling in missing data based on existing data)
 - Displaying aesthetically pleasing and easy-to-understand visuals
 
+[My Analysis Insights](https://github.com/NewyorkMengHer/Human-Resource-Data-Analysis/tree/main#analysis-insight)
+
 # Data Used
 
 The data used in this project can be found in this GitHub repository: **[Awesome Public Dataset](https://github.com/awesomedata/awesome-public-datasets/tree/master)**. 
