@@ -9,7 +9,12 @@ Small goals includes:
 - Implementing any form of imputation (filling in missing data based on existing data)
 - Displaying aesthetically pleasing and easy-to-understand visuals
 
-[My Analysis Insights](https://github.com/NewyorkMengHer/Human-Resource-Data-Analysis/tree/main#analysis-insight)
+# Table of Contents
+- [Data Used](https://github.com/NewyorkMengHer/Human-Resource-Data-Analysis/tree/main#data-used)
+- [Data Visualization](https://github.com/NewyorkMengHer/Human-Resource-Data-Analysis/tree/main#data-visualization)
+- [Analysis Questions](https://github.com/NewyorkMengHer/Human-Resource-Data-Analysis/tree/main#analysis-questions)
+- [Summary of Findings](https://github.com/NewyorkMengHer/Human-Resource-Data-Analysis/tree/main#summary-of-findings)
+- [Analysis Insights](https://github.com/NewyorkMengHer/Human-Resource-Data-Analysis/tree/main#analysis-insight)
 
 # Data Used
 
@@ -18,6 +23,9 @@ Alternatively, the raw data is available [above](https://github.com/NewyorkMengH
 The HR dataset comprises over 22,000 rows spanning from the year 2000 to 2020. It includes crucial information such as location, hire date, termination date, job titles, race, and many other relevant variables.
 
 # Data Visualization
+
+Quality data was visualized using PowerBI
+
 ![image](images/HR%20Employee%20Distribution%20Report.JPG)
 
 ![image](images/HR%20Employee%20Department%20Dashboard.JPG)
