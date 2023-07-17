@@ -54,5 +54,6 @@ Here is a list of questions I aim to answer by the end of this project. These qu
 
 Based on my analysis, I can conclude that the Auditing and Legal department has the highest turnover rate. This suggests a higher level of employee attrition, which can have various implications for an organization. It may indicate potential issues such as dissatisfaction with the work environment, a lack of career growth opportunities, inadequate compensation, or ineffective management practices.
 
-However, in contrast to the Auditing and Legal department, the Engineering department is thriving with success. It not only has the largest number of employees within the organization but also maintains the highest average tenure. Additionally, the department achieves this while maintaining a favorable average termination rate.
+However, in contrast to the Auditing and Legal department, the Engineering department is thriving with success. It not only has the largest number of employees within the organization but also maintains the highest average tenure. Additionally, the department achieves this while maintaining a favorable average turnover rate.
 
+Lastly, this organization has made significant efforts to maintain diversity within the company. While the highest total number of employees is represented by the White demographic, there is a notable presence of other races, with the total number of employees being relatively close in numbers.
