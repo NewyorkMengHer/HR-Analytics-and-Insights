@@ -37,8 +37,8 @@ Here is a list of questions I aim to answer by the end of this project. These qu
 11. What is the tenure distribution for each department?
 
 # Summary of Findings
- - Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
- - Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
+ - Some records had negative ages and these were excluded during querying (967 records). Ages used were 18 years and above.
+ - Some termdates were far into the future and were not included in the analysis (1599 records). The only term dates used were those less than or equal to the current date.
  - White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
  - The youngest employee is 20 years old and the oldest is 57 years old
  - 5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large number of employees were between 25-34 followed by 35-44 while the smallest group was 55-64.
