@@ -11,7 +11,8 @@ Small goals includes:
 
 # Data Used
 
-The data used in this project can be found in this GitHub repository: **[Awesome Public Dataset](https://github.com/awesomedata/awesome-public-datasets/tree/master)**. Alternatively, the raw data is available above. 
+The data used in this project can be found in this GitHub repository: **[Awesome Public Dataset](https://github.com/awesomedata/awesome-public-datasets/tree/master)**. 
+Alternatively, the raw data is available [above](https://github.com/NewyorkMengHer/Human-Resource-Data-Analysis/tree/main/raw). 
 The HR dataset comprises over 22,000 rows spanning from the year 2000 to 2020. It includes crucial information such as location, hire date, termination date, job titles, race, and many other relevant variables.
 
 # Data Visualization
