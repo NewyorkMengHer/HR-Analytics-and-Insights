@@ -33,7 +33,7 @@ Quality data was visualized using PowerBI
 
 # Analysis Questions
 
-Here is a list of questions I aim to answer by the end of this project. These questions have been formulated based on the preliminary analysis of the current dataset, prior to data cleaning.
+Here is a list of questions I aim to query by the end of this project. These questions have been formulated based on the preliminary analysis of the current dataset, prior to data cleaning.
 
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
